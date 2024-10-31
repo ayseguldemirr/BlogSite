@@ -1,0 +1,4 @@
+CREATE TABLE Publisher(
+    PublisherId INT IDENTITY PRIMARY KEY,
+    Name NVARCHAR(50) NOT NULL
+);
